@@ -2,7 +2,7 @@
 layout: post
 title: "Can GDP, CPI, and U.S. Treasury Bonds predict a recession?"
 subtitle: "Seasonality of the U.S. Economy" 
-cover-img: "/assets/img/10and3 spread black.PNG"
+cover-img: "/assets/img/10and3 spread black 2.PNG"
 thumbnail-img: "/assets/img/10and3 no axis.PNG"
 share-img: /assets/img/path.jpg
 tags: [GDP, CPI, bonds, macroeconomics, recession]
